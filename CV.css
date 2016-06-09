@@ -11,7 +11,12 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: url(http://batemuritours.co.id/in/wp-content/uploads/sites/2/2015/11/Bromo.jpg) right center; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #D3D3D3;}
+html, body {
+background: url(http://icls2015.ub.ac.id/wp-content/uploads/revslider/congress/dc982b7f97117abb3269882cee300451.jpg) right center;
+font-family: 'Lato', helvetica, arial, sans-serif;
+font-size: 16px;
+color: #D3D3D3;
+}
 	
 .clear {clear: both;}
 
@@ -23,7 +28,7 @@ p {
 
 #cv {
 	width: 210mm;
-	min-height: 260mm;
+	min-height: 289mm;
 	background: rgba(25, 26, 24, 0.33);
 	margin: 30px auto;
 	padding: 20px;
