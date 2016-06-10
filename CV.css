@@ -7,12 +7,13 @@ padding:0;
 vertical-align:baseline;
 }
 
+
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
 html, body {
-background: url(http://misadventuresmag.com/wp-content/uploads/2014/10/mount-bromo-weather.jpg) left center;
+background: #098349;
 font-family: 'Lato', helvetica, arial, sans-serif;
 font-size: 16px;
 color: #D3D3D3;
@@ -28,10 +29,15 @@ p {
 
 #cv {
 	width: 210mm;
-	min-height: 289mm;
+	min-height: 355mm;
 	background: rgba(25, 26, 24, 0.33);
 	margin: 30px auto;
 	padding: 20px;
+	border: 1px;
+	border-style: solid;
+	border-color: #000348;
+	border-right: 2px;
+
 }
 
 .mainDetails {
@@ -101,7 +107,7 @@ p {
 
 
 section {
-	border-top: 1px solid #dedede;
+	border-top: 2px solid #23DB32;
 	padding: 20px 0 0;
 }
 
@@ -111,16 +117,19 @@ section:first-child {
 
 section:last-child {
 	padding: 20px 0 10px;
+
 }
 
 .sectionTitle {
-	float: left;
+	float: right;
 	width: 25%;
+	padding: 10px;
 }
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 90%;
+	text-align: left;
 }
 
 .sectionTitle h1 {
@@ -133,7 +142,7 @@ section:last-child {
 .sectionContent h2 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.3em;
-	margin-bottom: -2px;
+	margin-bottom: 3px;
 	color: 	#23DB32;
 }
 
