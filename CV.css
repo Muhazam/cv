@@ -13,7 +13,8 @@ display:block;
 }
 
 html, body {
-background: url(http://misadventuresmag.com/wp-content/uploads/2014/10/mount-bromo-weather.jpg) right center;
+background: url(https://mountbromotourspackage.files.wordpress.com/2014/11/mt-bromo.jpg) left center;
+background-size: cover;
 font-family: 'Lato', helvetica, arial, sans-serif;
 font-size: 16px;
 color: #D3D3D3;
@@ -29,13 +30,11 @@ p {
 
 #cv {
 	width: 210mm;
-	min-height: 293mm;
+	min-height: 325mm;
 	background: rgba(25, 26, 24, 0.33);
 	margin: 30px auto;
 	padding: 20px;
 	border: 1px;
-
-
 }
 
 .mainDetails {
